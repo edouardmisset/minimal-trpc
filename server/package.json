@@ -1,0 +1,12 @@
+{
+  "name": "minimal-trpc-server",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@trpc/server": "^10.45.0",
+    "zod": "^3.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0"
+  }
+}
